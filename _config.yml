@@ -1,0 +1,28 @@
+name: ramblings
+favicon: null
+layout_spectrum: 0.45564471860416234
+typography_spectrum: 0.10979588842019439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2646743878722191
+  lightness: 0.2303451665211469
+  saturation: 0.9198500858619809
+  rhythmicContrast: 0.4025231476407498
+purpose: []
